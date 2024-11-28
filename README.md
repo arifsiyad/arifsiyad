@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arif Siyad</h1>
 <h3 align="center">A passionate frontend developer from United Arab Emirates</h3>
 
-<p align="left"> <a href="https://twitter.com/arifsiyad" target="blank"><img src="https://img.shields.io/twitter/follow/arifsiyad?logo=twitter&style=for-the-badge" alt="arifsiyad" /></a> </p>
-
-- 🔭 I’m currently working on [Post Social Content](postsocialcontent.com)
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/arifsiyad?logo=twitter&style=for-the-badge" alt="arifsiyad" /></a> </p>
 
 - 🌱 I’m currently learning **React , Golang**
-
-- 👯 I’m looking to collaborate on [Parallelhost](parallelhost.in)
-
-- 👨‍💻 All of my projects are available at [arifsiyad.com](arifsiyad.com)
 
 - 💬 Ask me about **React , WordPress**
 
